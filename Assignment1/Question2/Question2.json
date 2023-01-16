@@ -1,0 +1,26 @@
+/* Question 2
+    1) There is a comma missing after role: instructor 
+*/
+
+[
+    {
+        "name" : "Lorenzo",
+        "role" : "instructor",
+        "favourite_number" : "8"
+    },
+    {
+        "name" : "Arthur",
+        "role" : "adventurer",
+        "favourite_number" : "42"
+    },
+    {
+        "name" : "Shivam",
+        "role" : "adventurer",
+        "favourite_number" : "420"
+    },
+    {
+        "name" : "Donald",
+        "role" : "politician",
+        "favourite_number" : "69"
+    }
+]
