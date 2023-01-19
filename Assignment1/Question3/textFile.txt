@@ -1,6 +1,4 @@
-question 3 text
-
-The Project Gutenberg eBook of The Count of Monte Cristo, by Alexandre Dumas, père
+﻿The Project Gutenberg eBook of The Count of Monte Cristo, by Alexandre Dumas, père
 
 This eBook is for the use of anyone anywhere in the United States and
 most other parts of the world at no cost and with almost no restrictions
@@ -61685,3 +61683,4 @@ This website includes information about Project Gutenberg-tm,
 including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 subscribe to our email newsletter to hear about new eBooks.
+
