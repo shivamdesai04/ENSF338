@@ -5,3 +5,6 @@ def lucas(n):
         return 1
     if n > 1:
         return lucas(n-2) + lucas(n-1)	    
+
+print(lucas(0))
+print(lucas(1))
